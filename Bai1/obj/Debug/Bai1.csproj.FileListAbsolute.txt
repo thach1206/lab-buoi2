@@ -1,0 +1,10 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\bin\Debug\Bai1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\bin\Debug\Bai1.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai1\obj\Debug\Bai1.pdb

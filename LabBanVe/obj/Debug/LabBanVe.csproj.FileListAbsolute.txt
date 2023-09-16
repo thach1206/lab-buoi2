@@ -1,0 +1,20 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\bin\Debug\LabBanVe.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\bin\Debug\LabBanVe.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\bin\Debug\LabBanVe.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\LabBanVe\obj\Debug\LabBanVe.pdb
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\bin\Debug\LabBanVe.exe.config
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\bin\Debug\LabBanVe.exe
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\bin\Debug\LabBanVe.pdb
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.exe
+C:\Users\Admin\OneDrive\Desktop\Buoi2-THLTW\LabBanVe\obj\Debug\LabBanVe.pdb

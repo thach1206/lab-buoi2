@@ -1,0 +1,9 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\bin\Debug\Bai2.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\bin\Debug\Bai2.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\windowForm\Bai2\obj\Debug\Bai2.pdb
